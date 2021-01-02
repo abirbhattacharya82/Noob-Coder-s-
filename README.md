@@ -1,2 +1,3 @@
-# Noob-Coder-s-
-I don't know how to print "Hello World"
+# NOOB CODERS
+## I DONT KNOW HOW TO PRINT "HELLO WORLD" SO I MAKE OTHERS WRITE ONE FOR ME
+![](Untitled.png)
